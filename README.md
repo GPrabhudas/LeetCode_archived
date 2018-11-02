@@ -1,2 +1,2 @@
 # LeetCode
-Problems Solved on online coding platform
+My submission to the problems on leetcode
